@@ -1,0 +1,43 @@
+#container{
+								background-color: black;
+								width:90%;
+  							margin:auto;
+  							overflow:hidden;
+  							color:white;
+  									
+	        }
+a{
+				text-decoration:none;
+				color:white;
+}
+
+#game{
+				min-height:400px;
+  background:url('aaaa.png') no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align:center;
+  color:#ffffff;
+}
+
+#gam{
+				min-height:400px;
+  background:url('a.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align:center;
+  color:#ffffff;
+}
+
+#ga{
+				min-height:400px;
+  background:url('aaa.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align:center;
+  color:#ffffff;
+  }
+  
+h3{
+				color:white;
+}
